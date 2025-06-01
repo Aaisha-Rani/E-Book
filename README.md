@@ -25,7 +25,8 @@ Explore how Edge AI, robotics, custom chips, and ethics are reshaping our future
 ## 🌐 About the Author
 
 I'm Aaisha, a AI/tech professional/author/speaker, passionate about decoding the future of technology for everyday impact.
-Personal Nuggests: Love nature and spirituality 
+
+When I'm not writing about emerging tech, you'll find me meditating, capturing the night sky, or walking in nature — where some of my best ideas are born.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/aaisha-rani-499a5a128/) 
 🔗 [Twitter/X](https://x.com/aaishae1111) 
