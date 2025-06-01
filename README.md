@@ -11,7 +11,7 @@ Whether you're a tech enthusiast, professional, leader, or learner, these books 
 ### 🔥 Hot Take: Latest AI Trends (2025)
 **A bold, visual guide to AI’s quiet revolutions**  
 Explore how Edge AI, robotics, custom chips, and ethics are reshaping our future.  
-📥 [Download PDF](Hot_Take_Latest_AI_Trends.pdf) https://github.com/Aaisha-Rani/E-Book/blob/main/HotTakeOnLatestAITrends/Hot%20Take%20Latest%20AI%20Trends.pdf
+📥 [Download PDF]https://github.com/Aaisha-Rani/E-Book/blob/main/HotTakeOnLatestAITrends/Hot%20Take%20Latest%20AI%20Trends.pdf
 
 ---
 
