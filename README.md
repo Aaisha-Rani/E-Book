@@ -29,8 +29,8 @@ https://github.com/Aaisha-Rani/E-Book/blob/main/HotTakeOnLatestAITrends/Hot%20Ta
 ## 🧭 Stay Connected
 
 Follow my work on:
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/aaisha-rani-499a5a128/))
-- [X / Twitter]([https://twitter.com/yourhandle](https://x.com/aaishae1111))
+- [LinkedIn] ([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/aaisha-rani-499a5a128/))
+- [X / Twitter] ([https://twitter.com/yourhandle](https://x.com/aaishae1111))
 
 ---
 
