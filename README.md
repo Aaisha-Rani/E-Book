@@ -1,6 +1,6 @@
 # 🔥 Hot Take: Latest AI Trends
 
-**By [Aaisha Rani]**
+**By Aaisha Rani**
 
 Welcome to **Hot Take: Latest AI Trends**, a bold, visual guide exploring where artificial intelligence is really headed in 2025 — and what most people are missing.
 
