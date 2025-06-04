@@ -21,8 +21,7 @@ Whether you're an **AI professional**, **tech leader**, or **curious learner**, 
 
 ## 📥 Download
 
-👉 [Download the PDF e-book](Hot_Take_Latest_AI_Trends.pdf)
-https://github.com/Aaisha-Rani/E-Book/blob/main/HotTakeOnLatestAITrends/Hot%20Take%20Latest%20AI%20Trends.pdf 
+👉 [Download the PDF e-book](https://github.com/Aaisha-Rani/E-Book/blob/main/HotTakeOnLatestAITrends/Hot%20Take%20Latest%20AI%20Trends.pdf)
 
 ---
 
